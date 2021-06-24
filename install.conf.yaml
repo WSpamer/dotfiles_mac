@@ -4,8 +4,10 @@
 
 - clean: ['~']
 
-#- link:
+- link:
 #  ~/.vim: vim
+    ~/.zshrc: 
+    ~/.gitconfig: 
 #  ~/.vimrc: vimrc
 
 #- create:
